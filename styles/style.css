@@ -172,7 +172,7 @@ body {
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.05);
     position: relative;
     top: -80px;
-    left: 40px;
+    left: 50px;
     z-index: 20;
 }
 .product__text span {
