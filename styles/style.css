@@ -183,10 +183,12 @@ body {
 .site__btn--second {
     display: block;
     margin: 0 auto;
+     pointer-events: auto;
 }
 .product a {
     position: relative;
     top:50px;
+    pointer-events: none;
 }
 
 /* アバウト アス */
