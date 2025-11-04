@@ -103,7 +103,7 @@ body {
     position: relative;
     justify-content: space-between;
     width: 100%;
-    height: 800px;
+    height: 900px;
 }
 .mission__first {
     width: 50%;
@@ -131,7 +131,7 @@ body {
 /* プロダクト */
 .product {
     width: 100%;
-    height: 1250px;
+    height: 1360px;
     background-color:  #fafafa;
 }
 .product__title {
@@ -183,6 +183,8 @@ body {
 .site__btn--second {
     display: block;
     margin: 0 auto;
+}
+.product a {
     position: relative;
     top:50px;
 }
@@ -218,7 +220,6 @@ body {
 .list__text {
     width: 100%;
     margin-right: 50px;
-    
 }
 .list__text span {
     font-weight: bold;
@@ -231,7 +232,6 @@ body {
 }
 .aboutus__img--first {
     width: 100%;
-    /* height: 100%; */
     object-fit: cover;
 }
 .aboutus__img--second {
@@ -260,7 +260,7 @@ body {
 }
 .vision__inner {
     width: 100%;
-    height: 300px;;
+    height: 320px;
     display: flex;
     flex-flow: row wrap;
     align-content: space-between;
